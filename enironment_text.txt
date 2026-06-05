@@ -1,0 +1,14 @@
+PS C:\Users\Nana Malika\OneDrive\Documents\Intro to AI\ai_env> (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& "c:\Users\Nana Malika\OneDrive\Documents\Intro to AI\ai_env\Scripts\Activate.ps1")
+(ai_env) PS C:\Users\Nana Malika\OneDrive\Documents\Intro to AI\ai_env>  & 'c:\Users\Nana Malika\OneDrive\Documents\Intro to AI\ai_env\Scripts\python.exe' 'c:\Users\Nana Malika\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy\launcher' '58898' '--' 'c:\Users\Nana Malika\OneDrive\Documents\Intro to AI\ai_env\environment_test.py' 
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.14.5
+✅ OS: Windows 11
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+❌ Matplotlib: NOT INSTALLED
+❌ Seaborn: NOT INSTALLED
+✅ Virtual Environment: Active (c:\Users\Nana Malika\OneDrive\Documents\Intro to AI\ai_env)
+==================================================
+(ai_env) PS C:\Users\Nana Malika\OneDrive\Documents\Intro to AI\ai_env> 
